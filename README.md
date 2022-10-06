@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![TaeI](https://user-images.githubusercontent.com/75516344/194419608-c2236d64-c0c3-4dd6-b759-4c6ca2c54d48.gif)
+
+
 <!--
 **Yakout97/yakout97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
