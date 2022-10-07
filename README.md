@@ -20,15 +20,6 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 
 🔭 I’m currently working on ...
 
-<a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
- &#8287;&#8287;&#8287;&#8287;&#8287;
- 
-<a href="https://www.upwork.com/freelancers/~01cad30fd7a41a9b3f">
-<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-
-
-
-
 <!--
 **Yakout97/yakout97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
