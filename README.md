@@ -6,7 +6,7 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 
 <img src="https://user-images.githubusercontent.com/75516344/194475459-065f785d-2477-42f9-9c1e-214d01106c82.gif" width="200">
 
-## Language and tools
+### 🕹️ Language and tools
 ---
 
 ![icons8-html-5](https://user-images.githubusercontent.com/75516344/194473745-63378f96-3427-4232-8d58-a8a9994992f2.svg)
@@ -17,8 +17,13 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 ![icons8-react-native](https://user-images.githubusercontent.com/75516344/194474010-8452dce5-c91d-42ef-ba87-81dc871f39a7.svg)
 ![icons8-dart](https://user-images.githubusercontent.com/75516344/194474314-690d4b3e-7144-4002-b605-daf0cfc08aab.svg)
 ![icons8-flutter](https://user-images.githubusercontent.com/75516344/194474321-56576c6c-daee-43e4-b6f9-2012c16ff068.svg)
+![icons8-github](https://user-images.githubusercontent.com/75516344/194491653-c1dd1e92-6f74-4c20-8e33-cf885c917331.svg)
 
 🔭 I’m currently working on ...
+
+<a href="your-linkedin-URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 <!--
 **Yakout97/yakout97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
