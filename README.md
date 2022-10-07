@@ -21,7 +21,7 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 
 🔭 I’m currently working on ...
 
-<a href="your-linkedin-URL">
+<a href="https://www.linkedin.com/in/mohamed-ahmed-95311223a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
