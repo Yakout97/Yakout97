@@ -38,7 +38,7 @@ You can reach me on my LinkedIn profile or on twitter..
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 
-<img align="right" src="https://user-images.githubusercontent.com/75516344/194508187-b2ff40e4-604e-4596-9f96-b631ff4ef765.gif">
+<img align="center" src="https://user-images.githubusercontent.com/75516344/194508187-b2ff40e4-604e-4596-9f96-b631ff4ef765.gif">
 
 
 <!--
