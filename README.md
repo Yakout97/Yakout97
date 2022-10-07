@@ -6,7 +6,7 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 
 <img src="https://user-images.githubusercontent.com/75516344/194475459-065f785d-2477-42f9-9c1e-214d01106c82.gif" width="200">
 
-### 🕹️ Language and tools
+🕹️ Language and tools
 ---
 
 ![icons8-html-5](https://user-images.githubusercontent.com/75516344/194473745-63378f96-3427-4232-8d58-a8a9994992f2.svg)
@@ -20,13 +20,16 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 ![icons8-github](https://user-images.githubusercontent.com/75516344/194491653-c1dd1e92-6f74-4c20-8e33-cf885c917331.svg)
 
 🔭 I’m currently working on ...
-
+--
 <a href="https://www.upwork.com/freelancers/~01cad30fd7a41a9b3f">
 <img alt="Upwork URL" src="https://img.shields.io/twitter/url?color=%23&label=UpWork&logo=upwork&style=flat-square&url=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01cad30fd7a41a9b3f">
 </a>
 
 
+
 📫 How to reach me: ...
+--
+You can reach me on my LinkedIn profile or on twitter..
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-95311223a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
