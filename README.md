@@ -22,8 +22,19 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 🔭 I’m currently working on ...
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-95311223a/">
+<img alt="Upwork URL" src="https://img.shields.io/twitter/url?color=%23&label=UpWork&logo=upwork&style=flat-square&url=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01cad30fd7a41a9b3f">
+</a>
+
+
+📫 How to reach me: ...
+
+<a href="https://www.linkedin.com/in/mohamed-ahmed-95311223a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="https://twitter.com/yakout97">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+
 
 <!--
 **Yakout97/yakout97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
