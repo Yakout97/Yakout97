@@ -2,7 +2,14 @@
 
 **`Front-End Developer (Websites | MobileApp with ✨Flutter✨ ios/android)`**
 
-My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaScript, AJAX and responsive coding. Converting layouts from Photoshop, Sketch, Figma, XD. Experience with frameworks as React
+FrontEnd Developer with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.
+
+Developing +2 years with passionate and love 💙
+- Converting `XD` `Figma` to full website with Responsive 
+- Working with APIs
+- Clean Code
+- Working with frameworks `ReactJs` `Bootstrap`
+- Efficiency Website 
 
 <img src="https://user-images.githubusercontent.com/75516344/194475459-065f785d-2477-42f9-9c1e-214d01106c82.gif" width="200">
 
@@ -21,6 +28,8 @@ My expertise is focused on Flutter MobileApp ,React, HTML5, CSS3, jQuery, JavaSc
 
 🔭 I’m currently working on ...
 --
+Working now as afreelancer in UpWork you can check my portofolio and Hire me..
+
 <a href="https://www.upwork.com/freelancers/~01cad30fd7a41a9b3f">
 <img alt="Upwork URL" src="https://img.shields.io/twitter/url?color=%23&label=UpWork&logo=upwork&style=flat-square&url=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01cad30fd7a41a9b3f">
 </a>
